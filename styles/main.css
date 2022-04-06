@@ -54,8 +54,20 @@ header img {
 }
 #nav_menu ul li {
     float: left;
-
 }
+
+#nav_menu ul li a{
+    display: block;
+    width: 160px;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-decoration: none;
+    background-color: #800000;
+    color: white;
+    font-weight: bold;
+}
+
 
 
 
