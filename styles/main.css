@@ -28,6 +28,7 @@ ul.a{
     margin: 0;
     padding-bottom:.25em;
     padding-left:1.25em;
+    list-style-type: circle;
 }
 header h2 {
     font-size: 170%;
@@ -86,7 +87,7 @@ header img {
 }
 
 #nav_menu > ul::after {
-    content: "";
+    content:"";
     clear: both;
     display: block;
 }
